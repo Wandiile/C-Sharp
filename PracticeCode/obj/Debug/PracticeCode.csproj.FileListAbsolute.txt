@@ -1,0 +1,7 @@
+C:\Users\Wandi\source\repos\C-Sharp\PracticeCode\bin\Debug\PracticeCode.exe.config
+C:\Users\Wandi\source\repos\C-Sharp\PracticeCode\bin\Debug\PracticeCode.exe
+C:\Users\Wandi\source\repos\C-Sharp\PracticeCode\bin\Debug\PracticeCode.pdb
+C:\Users\Wandi\source\repos\C-Sharp\PracticeCode\obj\Debug\PracticeCode.csproj.AssemblyReference.cache
+C:\Users\Wandi\source\repos\C-Sharp\PracticeCode\obj\Debug\PracticeCode.csproj.CoreCompileInputs.cache
+C:\Users\Wandi\source\repos\C-Sharp\PracticeCode\obj\Debug\PracticeCode.exe
+C:\Users\Wandi\source\repos\C-Sharp\PracticeCode\obj\Debug\PracticeCode.pdb
