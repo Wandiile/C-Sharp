@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace PracticeCode
 {
+    //Wandile Nkovu
+    //currently a student at Central University of Technology(2024)
+    //Student number: 220020554
    internal class Program
     {
         //Global Variables
