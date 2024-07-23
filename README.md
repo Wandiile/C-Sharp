@@ -1,0 +1,1 @@
+For my file called isPalindromeChecker, I used Visual Studio 2022 to complete the project. I used the MVC Web Core Api application that supports 8.0 framework. I also installed the latest Nugget packages. all my dependencies are updated.
