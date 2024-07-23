@@ -1,0 +1,6 @@
+@isPalindromeChecker_HostAddress = http://localhost:5141
+
+GET {{isPalindromeChecker_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

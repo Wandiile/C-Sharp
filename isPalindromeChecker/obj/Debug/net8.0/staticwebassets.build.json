@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0NvNUFDkEM7LsSn1fp4V9F9eonKOXAM/9gQd4CSNvdc=",
+  "Source": "isPalindromeChecker",
+  "BasePath": "_content/isPalindromeChecker",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
